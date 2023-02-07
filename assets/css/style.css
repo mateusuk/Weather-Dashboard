@@ -1,0 +1,30 @@
+
+  .btn.search-button{
+    line-height: 1px;
+  }
+
+#today{
+    height: 250px;
+    background-image: linear-gradient(rgb(248, 248, 248) , rgb(194, 189, 189));
+    border-radius: 10px;
+}
+
+.hide {
+    display: none !important;
+  }
+
+  #forecast{
+    justify-content: space-around;
+  }
+
+  .customCard{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .card {
+    background-color: rgb(69, 69, 170) !important;
+    color: white;
+    
+}
+
+
