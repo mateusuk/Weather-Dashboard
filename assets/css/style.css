@@ -27,4 +27,16 @@
     
 }
 
+@media screen and (max-width: 769px) {
+    .customCard{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        padding-top: 20px;
+    }
 
+    .card {
+        text-align: center;
+        background-color: rgb(69, 69, 170) !important;
+        color: white;
+    }
+  }
