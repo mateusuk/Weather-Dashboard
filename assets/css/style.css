@@ -39,4 +39,9 @@
         background-color: rgb(69, 69, 170) !important;
         color: white;
     }
+
+    #forecast {
+        padding: 0 20px;
+        justify-content: space-around;
+    }
   }
